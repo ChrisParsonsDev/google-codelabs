@@ -1,4 +1,4 @@
-# grpc-samples
-Sample gRPC Applications
+# Google Codelabs
+Sample applications built alongside the Google Codelabs tutorial series
 
-1. [Node.js](https://github.com/ChrisParsonsDev/grpc-samples/blob/master/node)
+1. [gRPC - Node.js](https://github.com/ChrisParsonsDev/grpc-samples/blob/master/grpc-node)
